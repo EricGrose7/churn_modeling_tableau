@@ -7,8 +7,8 @@ The dataset used in this project is a hypothetical dataset containing informatio
 **Machine Learning Model**   <br>
 The machine learning model used in this project is a binary classification model that predicts whether a customer is likely to churn or not. The model is trained on the training set using several classification algorithms, including logistic regression, decision tree, random forest, and XGBoost. The performance of the model is evaluated on the test set using metrics such as accuracy, precision, recall, and F1-score.
 
-**Power BI Dashboard**   <br>
-The Power BI dashboard in this project is designed to help business users analyze customer churn and take proactive steps to retain customers. The dashboard contains several visualizations, including:
+**Tableau Dashboard**   <br>
+The Tableau dashboard in this project is designed to help business users analyze customer churn and take proactive steps to retain customers. The dashboard contains several visualizations, including:
 
 - A customer churn summary, showing the total number of customers and the percentage of customers who churned
 - A customer demographics breakdown, showing the distribution of customers by gender, age, and location
